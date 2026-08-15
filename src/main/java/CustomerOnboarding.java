@@ -21,7 +21,7 @@ public class CustomerOnboarding {
 
         Customer customer = new Customer(name, email, phone, address);
         bank.registerCustomer(customer);
-        System.out.println("Customer registered! Your customer ID is: " + customer.getCustomerId());
+        System.out.println("main.java.Customer registered! Your customer ID is: " + customer.getCustomerId());
         return customer;
     }
 }

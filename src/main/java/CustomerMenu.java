@@ -17,7 +17,7 @@ public class CustomerMenu {
         boolean running = true;
 
         while (running) {
-            System.out.println("\n--- Customer Menu ---");
+            System.out.println("\n--- main.java.Customer Menu ---");
             System.out.println("1. View profile");
             System.out.println("2. List accounts");
             System.out.println("3. Open new account");

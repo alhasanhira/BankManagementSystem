@@ -12,9 +12,9 @@ public class Main {
         boolean running = true;
 
         while (running) {
-            System.out.println("\n--- Main Menu ---");
+            System.out.println("\n--- main.java.Main Menu ---");
             System.out.println("1. Register customer");
-            System.out.println("2. Customer menu");
+            System.out.println("2. main.java.Customer menu");
             System.out.println("3. Find customer (by account number or ID)");
             System.out.println("4. Exit");
             System.out.print("Choose an option: ");
